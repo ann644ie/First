@@ -1,3 +1,3 @@
 # First
 New file just created.
-trying to learn about github.
+trying to learn github.
